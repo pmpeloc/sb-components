@@ -3,7 +3,7 @@
 Este paquete es una guía para practicar React Components + Storybook + NPM Publish
 
 ```
-yarn add fares-storybook-components
+yarn add fares-my-storybook-components
 ```
 
 ### Demo:
