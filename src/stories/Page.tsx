@@ -86,3 +86,5 @@ export const Page = ({
     </section>
   </article>
 );
+
+export default Page;
